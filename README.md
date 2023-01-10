@@ -1,5 +1,7 @@
 
 # Emmy
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![PyPI version](https://badge.fury.io/py/emmy.svg)](https://badge.fury.io/py/emmy)
+
 A very hard esolang named after Emmy Noether.
 
 ## Install
@@ -38,3 +40,7 @@ To install emmy, make sure you have pip installed (if not run `python -m ensurep
     'bb' : 'gds', Pushes "Graindstone" onto the stack
     'f5' : 'nin', Pushes input as a number onto stack.
 ```
+
+# Reading level
+[![forthebadge](https://forthebadge.com/images/badges/reading-6th-grade-level.svg)](https://forthebadge.com)  
+A 6th grader did do it...
