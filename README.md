@@ -41,6 +41,14 @@ To install emmy, make sure you have pip installed (if not run `python -m ensurep
     'f5' : 'nin', Pushes input as a number onto stack.
 ```
 
-# Reading level
+## Details
+Emmy is a compiled machine language. The code is compiled from a number of `Emmy`'s into Emmy Machine Code. The compiled code is then sent to the Emmy Virtual Machine, which returns the output.
+
+`emmy.run_code` is the function for running your emmy code.
+`emmy_compile.emmy_compile` is the function for compiling your code.
+`emmy_machine.emmy_execute` is the function for executing the machine code.
+
+
+## Reading level
 [![forthebadge](https://forthebadge.com/images/badges/reading-6th-grade-level.svg)](https://forthebadge.com)  
 A 6th grader did do it...
