@@ -9,8 +9,8 @@ setup(
     license='MIT',
     author="Joyoforigami",
     author_email='raise-an-issue-on-github@email-is-private.com',
-    packages=find_packages('/Users/chenglei/emmy'),
-    package_dir={'':'/Users/chenglei/emmy'},
+    packages=find_packages('.'),
+    package_dir={'':'.'},
     url='https://github.com/joyoforigami/emmy',
     keywords='esolang hash',
     install_requires=[

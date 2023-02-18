@@ -1,0 +1,13 @@
+LICENSE.txt
+README.md
+setup.py
+/Users/chenglei/emmy/emmy.egg-info/PKG-INFO
+/Users/chenglei/emmy/emmy.egg-info/SOURCES.txt
+/Users/chenglei/emmy/emmy.egg-info/dependency_links.txt
+/Users/chenglei/emmy/emmy.egg-info/requires.txt
+/Users/chenglei/emmy/emmy.egg-info/top_level.txt
+emmy.egg-info/PKG-INFO
+emmy.egg-info/SOURCES.txt
+emmy.egg-info/dependency_links.txt
+emmy.egg-info/requires.txt
+emmy.egg-info/top_level.txt
