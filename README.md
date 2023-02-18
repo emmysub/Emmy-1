@@ -9,7 +9,7 @@ To install emmy, make sure you have pip installed (if not run `python -m ensurep
 
 ## Run code:
 1. Save code as .emy
-2. Do `python3 -m emmy.everything.emmy "/path/to/file.emy" "input (optional)"`
+2. Do `python3 -m emmy.emmy "/path/to/file.emy" "input (optional)"`
 
 ## List of commands
 ```

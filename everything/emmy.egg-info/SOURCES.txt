@@ -1,8 +1,0 @@
-LICENSE.txt
-README.md
-setup.py
-/Users/chenglei/emmy/everything/emmy.egg-info/PKG-INFO
-/Users/chenglei/emmy/everything/emmy.egg-info/SOURCES.txt
-/Users/chenglei/emmy/everything/emmy.egg-info/dependency_links.txt
-/Users/chenglei/emmy/everything/emmy.egg-info/requires.txt
-/Users/chenglei/emmy/everything/emmy.egg-info/top_level.txt
